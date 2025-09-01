@@ -47,8 +47,6 @@ return {
             ignored = true,
           },
         },
-        hidden = true,
-        ignored = true,
       },
     },
   },
