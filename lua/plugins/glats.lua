@@ -35,20 +35,6 @@ return {
   { "navarasu/onedark.nvim" },
   {
     "folke/snacks.nvim",
-    opts = {
-      picker = {
-        exclude = {
-          ".git",
-          "node_modules",
-        },
-        sources = {
-          files = {
-            hidden = true,
-            ignored = true,
-          },
-        },
-      },
-    },
   },
   {
     "LazyVim/LazyVim",
